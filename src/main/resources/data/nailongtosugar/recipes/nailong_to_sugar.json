@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "sugar",
+  "ingredients": [
+    {
+      "item": "nailongtosugar:nailong"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sugar",
+    "count": 64
+  }
+}

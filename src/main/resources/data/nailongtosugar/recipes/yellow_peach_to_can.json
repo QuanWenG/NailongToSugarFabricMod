@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "#A"
+  ],
+  "key": {
+    "#": {
+      "item": "nailongtosugar:yellowpeach"
+    },
+    "A": {
+      "item": "minecraft:potion"
+    }
+  },
+  "result": {
+    "item": "nailongtosugar:cannedyellowpeaches"
+  }
+}
