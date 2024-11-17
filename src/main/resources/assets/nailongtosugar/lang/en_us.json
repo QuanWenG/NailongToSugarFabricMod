@@ -2,5 +2,8 @@
   "item.nailongtosugar.nailong": "Nailong",
   "item.nailongtosugar.yellowpeach": "YellowPeach",
   "item.nailongtosugar.cannedyellowpeaches": "CannedYellowPeaches",
-  "itemGroup.nailongtosugargroup": "NailongToSugar"
+  "itemGroup.nailongtosugargroup": "NailongToSugar",
+  "item.nailongtosugar.nailong.tooltip": "so sweet",
+  "item.nailongtosugar.yellowpeach.tooltip": "a little sweet",
+  "item.nailongtosugar.cannedyellowpeaches.tooltip": "sweet"
 }

@@ -2,5 +2,8 @@
   "item.nailongtosugar.nailong": "奶龙",
   "item.nailongtosugar.yellowpeach": "黄桃",
   "item.nailongtosugar.cannedyellowpeaches": "黄桃罐头",
-  "itemGroup.nailongtosugargroup": "奶龙制糖"
+  "itemGroup.nailongtosugargroup": "奶龙制糖",
+  "item.nailongtosugar.cannedyellowpeaches.tooltip": "奶龙石块！？",
+  "item.nailongtosugar.nailong.tooltip": "糖到没边！！！",
+  "item.nailongtosugar.yellowpeach.tooltip": "一种甜甜的水果"
 }
