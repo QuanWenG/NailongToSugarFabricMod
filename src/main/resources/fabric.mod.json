@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "nailongtosugar",
+	"version": "${version}",
+	"name": "NailongToSugar",
+	"description": "我是奶龙!我才是奶龙!",
+	"authors": [
+		"QuanWenG!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "BSD",
+	"icon": "assets/nailongtosugar/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.quanweng.NailongToSugar"
+		],
+		"client": [
+			"com.quanweng.NailongToSugarClient"
+		],
+		"fabric-datagen": [
+			"com.quanweng.NailongToSugarDataGenerator"
+		]
+	},
+	"mixins": [
+		"nailongtosugar.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
